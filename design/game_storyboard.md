@@ -8,6 +8,8 @@
 **Theme:**
 
 TODO: Name and briefly describe your game's theme.
+Name: 
+Theme: The king is locked away in a castle and needs to find different items in order to defeat and get past the evil witch to escape.
 
 **Storyline:**
 
@@ -18,14 +20,14 @@ the player must gather, and the threat created by the villain.
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. TODO: Start room (Bedroom)
+2. TODO: Library
+3. TODO: Potion room
+4. TODO: Armory
+5. TODO: Blacksmith's quaters
+6. TODO: Throne room
+7. TODO: Small closet
+8. TODO: Villain room (Main foyer)
 
 Add more rooms if your design needs them.
 
@@ -34,19 +36,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. TODO: Book of how to defeat witches
+2. TODO: Potion of strength
+3. TODO: Armor of deflection
+4. TODO: Sword of destiny
+5. TODO: Kings crown
+6. TODO: Witches broomstick
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+TODO: The evil witch once ruled the castle but was overthrown by the people when she stopped taking care of her subjects. She has returned to take back what she believes is rightfully hers.
 
 ## Storyboard and Map Check
 
